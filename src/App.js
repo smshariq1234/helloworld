@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        lol con int
+        well done syed
         </a>
       </header>
     </div>
